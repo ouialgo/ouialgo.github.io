@@ -1,2 +1,2 @@
-# ouialgo.github.io
-Doc Oui! Algo
+# Oui Algo
+Oui Algo developer docs
